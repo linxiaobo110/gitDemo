@@ -1,0 +1,6 @@
+/Prj/Objects
+/Prj/Listings
+*.pdb
+*.manifest
+/Prj
+!/Prj/Objects/*.axf
